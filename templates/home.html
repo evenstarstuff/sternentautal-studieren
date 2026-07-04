@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}Sternentautal Studieren — Vokabeln{% endblock %}
+
+{% block content %}
+<section>
+  <h2>Vokabeln</h2>
+  <ul class="vocab-list">
+    {% for word in vocab %}
+    <li class="vocab-card">
+      <div class="vocab-top">
+        {% if word.article %}
+        <span class="article">{{ word.article }}</span>
+        {% endif %}
+        <span class="german">{{ word.german }}</span>
+        <span class="pos">{{ word.pos }}</span>
+      </div>
+      <div class="english">{{ word.english }}</div>
+      <div class="example">
+        <span class="german-example">{{ word.example }}</span>
+        <span class="english-example">{{ word.example_translation }}</span>
+      </div>
+      {% if word.note %}
+      <div class="note">{{ word.note }}</div>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock %}

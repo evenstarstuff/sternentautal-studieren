@@ -1,0 +1,239 @@
+- german: Seele
+  english: soul
+  pos: noun
+  article: die
+  example: "...und deine Seele wird von der wachsenden Leere eingenommen."
+  example_translation: "...and your soul will be consumed by the growing emptiness."
+  note: "The very first words of the game. Grandpa comes in swinging."
+
+- german: Leere
+  english: emptiness, void
+  pos: noun
+  article: die
+  example: "...von der wachsenden Leere eingenommen."
+  example_translation: "...consumed by the growing emptiness."
+  note: "A poetic word for the hollow feeling of corporate life. Grandpa knew."
+
+- german: Verbundenheit
+  english: connectedness, sense of connection
+  pos: noun
+  article: die
+  example: "Ich habe vergessen, was im Leben wirklich wichtig ist, nämlich Verbundenheit mit anderen Menschen und der Natur."
+  example_translation: "I forgot what is truly important in life, namely connectedness with other people and with nature."
+  note: "Grandpa's whole thesis, in one beautiful compound noun."
+
+- german: aufgeben
+  english: to give up, to abandon
+  pos: verb
+  article: null
+  example: "Also habe ich alles aufgegeben."
+  example_translation: "So I gave everything up."
+  note: "A separable verb — the 'auf' splits off to the end. Grandpa made it look easy."
+
+- german: gehören
+  english: to belong
+  pos: verb
+  article: null
+  example: "...bin an den Ort gegangen, an den ich wirklich gehöre."
+  example_translation: "...went to the place where I truly belong."
+  note: "One of those quietly heartfelt words. Where do YOU gehören?"
+
+- german: Stolz
+  english: pride
+  pos: noun
+  article: der
+  example: "Mein ganzer Stolz: Mondschein Hof."
+  example_translation: "My greatest pride: Moonshine Farm."
+  note: "Grandpa's entire legacy summed up in two words. No pressure."
+
+- german: kostbar
+  english: precious, valuable
+  pos: adjective
+  article: null
+  example: "Das war mein kostbarstes Geschenk und jetzt gehört es dir."
+  example_translation: "That was my most precious gift and now it belongs to you."
+  note: "From grandpa's letter. Bring tissues."
+
+- german: Kerl
+  english: guy, fellow
+  pos: noun
+  article: der
+  example: "...sag dem alten Kerl 'Hallo' von mir, ja?"
+  example_translation: "...say 'hello' to the old fellow for me, yeah?"
+  note: "Grandpa's affectionate nickname for Mayor Lewis. Colloquial and very charming."
+
+- german: hiesig
+  english: local, of this place
+  pos: adjective
+  article: null
+  example: "Ich bin Robin, die hiesige Schreinerin."
+  example_translation: "I am Robin, the local carpenter."
+  note: "A fancy way of saying 'local'. Makes you sound like you know the area."
+
+- german: aufräumen
+  english: to tidy up, to clean up
+  pos: verb
+  article: null
+  example: "Er ist gerade dort und räumt ein wenig für deine Ankunft auf."
+  example_translation: "He is there right now, tidying up a little for your arrival."
+  note: "A separable verb. Lewis was apparently doing his best. Results may vary."
+
+- german: verwildert
+  english: overgrown, gone wild
+  pos: adjective
+  article: null
+  example: "Klar, er ist ein wenig verwildert..."
+  example_translation: "Sure, it's a little overgrown..."
+  note: "Robin's diplomatic opener before describing the disaster that is your farm."
+
+- german: Durcheinander
+  english: mess, chaos, disorder
+  pos: noun
+  article: das
+  example: "...aber unter dem Durcheinander befindet sich guter Boden."
+  example_translation: "...but under the mess there is good soil."
+  note: "Robin finding the silver lining in what sounds like a complete catastrophe."
+
+- german: Fleiß
+  english: diligence, hard work
+  pos: noun
+  article: der
+  example: "Mit ein wenig Fleiß hast du hier im Nu Ordnung geschaffen."
+  example_translation: "With a little diligence you'll have things sorted out here in no time."
+  note: "Robin's pep talk. She believes in you. The farm does not yet deserve this faith."
+
+- german: im Nu
+  english: in no time, in an instant
+  pos: phrase
+  article: null
+  example: "...hast du hier im Nu Ordnung geschaffen."
+  example_translation: "...you'll have things sorted out here in no time."
+  note: "A lovely idiom. 'Nu' is an old word for 'now' — so literally 'in a now'."
+
+- german: Neuankömmling
+  english: newcomer, new arrival
+  pos: noun
+  article: der
+  example: "Ah, unser Neuankömmling!"
+  example_translation: "Ah, our newcomer!"
+  note: "Lewis greeting you like you're the guest of honour at a state banquet."
+
+- german: Ereignis
+  english: event, occurrence
+  pos: noun
+  article: das
+  example: "Es kommt nicht jeden Tag vor, dass jemand Neues einzieht. Das ist ein ziemlich großes Ereignis!"
+  example_translation: "It doesn't happen every day that someone new moves in. That's quite a big event!"
+  note: "Lewis treating your arrival like a national holiday. Pelican Town must be very quiet."
+
+- german: einziehen
+  english: to move in
+  pos: verb
+  article: null
+  example: "Du ziehst in die alte Hütte deines Großvaters ein."
+  example_translation: "You're moving into your grandfather's old cottage."
+  note: "Another separable verb. The 'ein' travels to the end like a little caboose."
+
+- german: rustikal
+  english: rustic
+  pos: adjective
+  article: null
+  example: "Es ist ein gutes Haus. Sehr... 'rustikal'."
+  example_translation: "It's a good house. Very... 'rustic'."
+  note: "Lewis's air-quoted diplomacy. The pause before 'rustikal' is doing a lot of heavy lifting."
+
+- german: schäbig
+  english: shabby, scruffy
+  pos: adjective
+  article: null
+  example: "'Schäbig' wäre wohl ein wenig passender."
+  example_translation: "'Shabby' would probably be a little more fitting."
+  note: "Robin's immediate and devastating rebuttal. She is not here for euphemisms."
+
+- german: unhöflich
+  english: rude, impolite
+  pos: adjective
+  article: null
+  example: "Wie unhöflich!"
+  example_translation: "How rude!"
+  note: "Lewis clutching his pearls after Robin called your house shabby. In front of you. On day one."
+
+- german: beeinflussen
+  english: to influence, to sway
+  pos: verb
+  article: null
+  example: "Sie will dich nur beeinflussen, damit du ein paar ihrer Verbesserungen für das Haus kaufst."
+  example_translation: "She just wants to influence you so you buy some of her improvements for the house."
+  note: "Lewis immediately throwing Robin under the bus. The Pelican Town political drama begins."
+
+- german: erkunden
+  english: to explore
+  pos: verb
+  article: null
+  example: "Morgen erkundest du dann am besten ein wenig die Stadt."
+  example_translation: "Tomorrow you should explore the town a bit."
+  note: "Lewis's parting advice. An extremely useful verb for adventurers."
+
+- german: schätzen
+  english: to appreciate, to value
+  pos: verb
+  article: null
+  example: "Das wissen sie sicher zu schätzen."
+  example_translation: "They will surely appreciate that."
+  note: "Lewis being optimistic about the townspeople. Also means 'to estimate' — a wonderfully versatile verb."
+
+- german: Enkel
+  english: grandchild, grandson
+  pos: noun
+  article: der
+  example: "...und für meinen ganz besonderen Enkel:"
+  example_translation: "...and for my very special grandchild:"
+  note: "Grandpa's words before the letter begins. 'Ganz besonders' = very special. You are loved."
+
+- german: versiegelt
+  english: sealed
+  pos: adjective
+  article: null
+  example: "Ich möchte, dass du diesen versiegelten Umschlag bekommst."
+  example_translation: "I want you to receive this sealed envelope."
+  note: "The mysterious envelope! What's inside?! (Don't open it yet. Hab Geduld.)"
+
+- german: Geduld
+  english: patience
+  pos: noun
+  article: die
+  example: "Nein, nein, öffne ihn noch nicht... hab Geduld."
+  example_translation: "No, no, don't open it yet... be patient."
+  note: "Grandpa teasing you from beyond the grave. Iconic."
+
+- german: Last
+  english: burden, load, weight
+  pos: noun
+  article: die
+  example: "Der Tag wird kommen, an dem du dich von der Last des modernen Lebens erdrückt fühlen wirst..."
+  example_translation: "The day will come when you will feel crushed by the burden of modern life..."
+  note: "Grandpa's prophecy. He was right. That's why you're here."
+
+- german: Veränderung
+  english: change, transformation
+  pos: noun
+  article: die
+  example: "...dann wirst du eine Veränderung bitter nötig haben."
+  example_translation: "...you will desperately need a change."
+  note: "The entire premise of Stardew Valley in five words."
+
+- german: tonnenweise
+  english: tons of, by the ton
+  pos: adverb
+  article: null
+  example: "Gute Futter- und Fischfangmöglichkeiten und tonnenweise Freiflächen."
+  example_translation: "Good foraging and fishing opportunities and tons of open space."
+  note: "Literally 'in the manner of tonnes'. German compound adverbs are a gift to the world."
+
+- german: Fischräucherer
+  english: fish smoker
+  pos: noun
+  article: der
+  example: "Du beginnst mit einem Fischräucherer."
+  example_translation: "You start with a fish smoker."
+  note: "The Flussbett farm's unique starting bonus. A compound noun so specific it's almost art: Fisch + Räucherer (one who smokes things)."

@@ -1,0 +1,31 @@
+#!/usr/bin/env python3
+
+import os
+from pathlib import Path
+
+import yaml
+from ryland import Ryland
+
+ROOT_DIR = Path(__file__).parent.parent
+OUTPUT_DIR = ROOT_DIR / "site"
+TEMPLATE_DIR = ROOT_DIR / "templates"
+PANTRY_DIR = ROOT_DIR / "pantry"
+DATA_DIR = ROOT_DIR / "data"
+
+url_root = os.environ.get("URL_ROOT", "/")
+ryland = Ryland(output_dir=OUTPUT_DIR, template_dir=TEMPLATE_DIR, url_root=url_root)
+
+ryland.clear_output()
+
+vocab = yaml.safe_load(open(DATA_DIR / "vocab.yaml"))
+
+## style
+
+ryland.copy_to_output(PANTRY_DIR / "style.css")
+ryland.add_hash("style.css")
+
+## home page
+
+ryland.render_template("home.html", "index.html", {
+    "vocab": vocab,
+})
