@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  background: #d6e8d0;
+  color: #3d2b1f;
+}
+
+header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 3px solid #5a8a6a;
+}
+
+header a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header h1 {
+  font-family: "Fredoka", sans-serif;
+  font-size: 2.4rem;
+  color: #2d5a3d;
+  margin: 0 0 0.25rem;
+}
+
+header .subtitle {
+  font-style: italic;
+  color: #4a7a5a;
+  margin: 0;
+  font-size: 1rem;
+}
+
+h2 {
+  font-family: "Fredoka", sans-serif;
+  font-size: 1.6rem;
+  color: #2d5a3d;
+  margin: 0 0 1.25rem;
+}
+
+/* ── Vocab list ── */
+
+.vocab-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.vocab-card {
+  background: #fdf3dc;
+  border: 2px solid #5a8a6a;
+  border-radius: 4px;
+  box-shadow: 3px 3px 0 #4a7a5a;
+  padding: 1rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+/* ── Top row: article + word + pos ── */
+
+.vocab-top {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.article {
+  font-size: 0.9rem;
+  color: #4a7a5a;
+  font-style: italic;
+}
+
+.german {
+  font-family: "Fredoka", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #2d5a3d;
+}
+
+.pos {
+  font-size: 0.75rem;
+  color: #7aaa8a;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-left: auto;
+}
+
+/* ── English translation ── */
+
+.english {
+  font-size: 1rem;
+  color: #3d2b1f;
+  font-weight: 700;
+}
+
+/* ── Example sentences ── */
+
+.example {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  margin-top: 0.25rem;
+  padding-left: 0.75rem;
+  border-left: 3px solid #7ab87a;
+}
+
+.german-example {
+  font-style: italic;
+  color: #5a3e2b;
+  font-size: 0.9rem;
+}
+
+.english-example {
+  color: #4a7a5a;
+  font-size: 0.85rem;
+}
+
+/* ── Note ── */
+
+.note {
+  font-size: 0.85rem;
+  color: #3d5a2e;
+  font-style: italic;
+  margin-top: 0.25rem;
+  padding: 0.4rem 0.6rem;
+  background: #e4f0e0;
+  border-radius: 3px;
+}

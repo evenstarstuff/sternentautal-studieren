@@ -237,3 +237,124 @@
   example: "Du beginnst mit einem Fischräucherer."
   example_translation: "You start with a fish smoker."
   note: "The Flussbett farm's unique starting bonus. A compound noun so specific it's almost art: Fisch + Räucherer (one who smokes things)."
+
+
+- german: Pastinake
+  english: parsnip
+  pos: noun
+  article: die
+  example: "Du hast 15 Samen für Pastinaken erhalten!"
+  example_translation: "You received 15 parsnip seeds!"
+  note: "The parsnip that started it all. Lewis, you legend."
+
+- german: Kleinigkeit
+  english: small thing, little something
+  pos: noun
+  article: die
+  example: "Hier eine Kleinigkeit, um dir den Start zu erleichtern."
+  example_translation: "Here's a little something to make your start easier."
+  note: "Lewis calls 15 seeds 'a little something'. Very Lewis."
+
+- german: Wahrsager
+  english: fortune teller
+  pos: noun
+  article: der
+  example: "Wähle Sendung: Wahrsager"
+  example_translation: "Choose programme: Fortune Teller"
+  note: "One of four TV channels. He can hear the ghosts. Concerning."
+
+- german: Wetterbericht
+  english: weather report
+  pos: noun
+  article: der
+  example: "Wähle Sendung: Wetterbericht"
+  example_translation: "Choose programme: Weather Report"
+  note: "Wetter (weather) + Bericht (report). German compound nouns are just two words holding hands."
+
+- german: Unterhaltung
+  english: entertainment, conversation
+  pos: noun
+  article: die
+  example: "...deiner Lieblingsquelle für Wetter, Neuigkeiten und Unterhaltung."
+  example_translation: "...your favourite source for weather, news and entertainment."
+  note: "One word meaning both 'entertainment' AND 'conversation'. Multitasking."
+
+- german: sonnig
+  english: sunny
+  pos: adjective
+  article: null
+  example: "Morgen wird es den ganzen Tag klar und sonnig sein."
+  example_translation: "Tomorrow it will be clear and sunny all day."
+  note: "Your very first weather forecast. A good omen for Day 1 on the farm."
+
+- german: Geist
+  english: ghost, spirit
+  pos: noun
+  article: der
+  example: "Ah... ja, ich kann die Geister flüstern hören..."
+  example_translation: "Ah... yes, I can hear the ghosts whispering..."
+  note: "The fortune teller opens with this. Casual ghost communication. Nothing to worry about."
+
+- german: flüstern
+  english: to whisper
+  pos: verb
+  article: null
+  example: "...ich kann die Geister flüstern hören..."
+  example_translation: "...I can hear the ghosts whispering..."
+  note: "A beautiful verb. The ghosts are doing it. Perhaps about you."
+
+- german: genervt
+  english: annoyed, irritated
+  pos: adjective
+  article: null
+  example: "Die Geister sind heute etwas genervt. Das Glück wird nicht auf deiner Seite sein."
+  example_translation: "The ghosts are a bit annoyed today. Luck will not be on your side."
+  note: "The ghosts are annoyed. On your first day. Already. Great start."
+
+- german: Glück
+  english: luck, happiness
+  pos: noun
+  article: das
+  example: "Das Glück wird nicht auf deiner Seite sein."
+  example_translation: "Luck will not be on your side."
+  note: "One word for both luck AND happiness. The ghosts are taking yours today."
+
+- german: Grünschnabel
+  english: greenhorn, newbie
+  pos: noun
+  article: der
+  example: "Diese Sendung heute ist euch Grünschnäbeln gewidmet!"
+  example_translation: "Today's show is dedicated to you greenhorns!"
+  note: "Literally 'green beak'. The farming show's affectionate term for beginners. That's you!"
+
+- german: Ernte
+  english: harvest
+  pos: noun
+  article: die
+  example: "...während ihr auf eure erste Ernte wartet!"
+  example_translation: "...while you wait for your first harvest!"
+  note: "The whole point of Stardew Valley, in one word."
+
+- german: Zutaten
+  english: ingredients
+  pos: noun
+  article: die
+  example: "Zutaten: 2x Holz"
+  example_translation: "Ingredients: 2x Wood"
+  note: "Essential crafting menu word. Also useful if you ever cook something."
+
+- german: im Griff haben
+  english: to have under control, to keep in check
+  pos: phrase
+  article: null
+  example: "Hält Tiere und Gras im Griff!"
+  example_translation: "Keeps animals and grass in check!"
+  note: "The wooden fence's job description. Literally 'in the grip'. A very satisfying idiom."
+
+- german: die Ohren spitzen
+  english: to prick up one's ears, to pay attention
+  pos: phrase
+  article: null
+  example: "Spitzt die Ohren:"
+  example_translation: "Prick up your ears:"
+  note: "Literally 'sharpen your ears'. The farming show's way of saying 'listen up'. Immediately charming."
