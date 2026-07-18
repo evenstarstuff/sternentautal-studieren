@@ -238,6 +238,8 @@
   example_translation: "You start with a fish smoker."
   note: "The Flussbett farm's unique starting bonus. A compound noun so specific it's almost art: Fisch + Räucherer (one who smokes things)."
 
+- separator: true
+  label: "Added 17 July 2026:"
 
 - german: Pastinake
   english: parsnip

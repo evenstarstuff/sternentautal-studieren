@@ -7,6 +7,9 @@
   <h2>Vokabeln</h2>
   <ul class="vocab-list">
     {% for word in vocab %}
+    {% if word.separator %}
+    <li class="vocab-separator">{{ word.label }}</li>
+    {% else %}
     <li class="vocab-card">
       <div class="vocab-top">
         {% if word.article %}
@@ -24,6 +27,7 @@
       <div class="note">{{ word.note }}</div>
       {% endif %}
     </li>
+    {% endif %}
     {% endfor %}
   </ul>
 </section>

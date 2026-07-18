@@ -140,3 +140,24 @@ h2 {
   background: #e4f0e0;
   border-radius: 3px;
 }
+
+/* ── Separators ── */
+
+.vocab-separator {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.8rem;
+  color: #4a7a5a;
+  font-style: italic;
+}
+
+.vocab-separator::before,
+.vocab-separator::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #5a8a6a;
+  opacity: 0.4;
+}
